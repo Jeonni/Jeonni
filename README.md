@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/jeonniu/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeonniu)](https://solved.ac/jeonniu/)

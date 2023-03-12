@@ -14,34 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
-  
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hi%20there%20👋&fontSize=40)
-  
-</div>
-
-
-
-<div align=center><h3>🧸 GITHIB STATS</h3></div>
-
-<div align=center>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonni&show_icons=true&theme=calm)
-
-</div>
-
-<br>
-<br>
-
-<div align=center><h3>🎨 MOST USED LANGUAGE</h3></div>
-
-<div align=center>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonni&layout=compat&theme=calm)
-  
-</div>
-
-<br>
 <br>
   
 <div align=center><h3>📝 STUDYING</h3></div>
@@ -88,11 +60,3 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<br>
-<div align=center>
-  
-  ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Jeonni%20GitHub&fontSize=20)
-  
-</div>
-
-

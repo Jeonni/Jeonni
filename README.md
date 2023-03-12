@@ -1,21 +1,3 @@
-
-<!--
-**Jeonni/Jeonni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<br>
-  
 <div align=center><h3>📝 STUDYING</h3></div>
 <div align=center> 
   
@@ -58,5 +40,3 @@ Here are some ideas to get you started:
   <a href="https://internal-litter-5e4.notion.site/Weekly-338ce4a5cf4f464f8d1f4e0469573588"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="https://jeonni.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 </div>
-
-<br>

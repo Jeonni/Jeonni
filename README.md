@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jeonni%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jeonni%20Git&fontSize=90)
+
+<img src="https://img.shields.io/badge/Java-FFCA28?style=flat-square&logo=java&logoColor=white"/>

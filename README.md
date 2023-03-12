@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jeonni%20Git&fontSize=90)
- java
-<img src="https://img.shields.io/badge/Java-FFCA28?style=flat-square&logo=spring&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+

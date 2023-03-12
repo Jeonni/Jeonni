@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jeonni%20Git&fontSize=90)
-
-<img src="https://img.shields.io/badge/Java-FFCA28?style=flat-square&logo=java&logoColor=white"/>
+ java
+<img src="https://img.shields.io/badge/Java-FFCA28?style=flat-square&logo=spring&logoColor=#6DB33F"/>

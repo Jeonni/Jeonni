@@ -23,6 +23,6 @@
 <div align=center><h4>RECORD</h4></div>
 <div align=center>
   <a href="https://github.com/Jeonni"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://internal-litter-5e4.notion.site/Weekly-338ce4a5cf4f464f8d1f4e0469573588"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://internal-litter-5e4.notion.site/Jeonni-s-Weekly-338ce4a5cf4f464f8d1f4e0469573588"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="https://jeonni.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 </div>
